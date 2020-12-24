@@ -1,0 +1,13 @@
+#colock{
+    font-style:italic;
+    padding:20px;
+    font-size: 60px;
+    box-shadow:50px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top:80px;
+    margin: auto auto auto;
+    text-align: center;
+    border: rgb(172, 10, 10) 5px solid;
+    border-radius: 12px;
+    width: 60%;
+}
